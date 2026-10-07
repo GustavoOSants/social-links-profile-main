@@ -99,7 +99,7 @@ li:last-child{
 a{
     background-color: hsl(0, 0%, 20%);
     color: hsl(0, 0%, 100%);
-    font-weight: 600px;
+    font-weight: 600;
     display: inline-block;
     width: 100%;
     border-radius: 8px;
